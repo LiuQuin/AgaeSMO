@@ -1,6 +1,9 @@
 # AgaeSMO
 # installation
 
+git clone https://github.com/LiuQuin/AgaeSMO.git
+cd AgaeSMO
+
 conda create -n AgaeSMO_env python=3.9 r-base=4.2.3
 conda activate AgaeSMO_env
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia 
