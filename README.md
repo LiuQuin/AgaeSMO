@@ -5,6 +5,9 @@ git clone https://github.com/LiuQuin/AgaeSMO.git
 
 cd AgaeSMO
 
+<img width="4251" height="3751" alt="architecture - 副本 (2) - 副本_画板 1" src="https://github.com/user-attachments/assets/2467d09d-7e4d-4494-a483-9917886974af" />
+
+
 conda create -n AgaeSMO_env python=3.9 r-base=4.2.3
 
 conda activate AgaeSMO_env
