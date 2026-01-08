@@ -27,3 +27,6 @@ conda install anaconda::ipykernel
 python -m ipykernel install --user --name AgaeSMO_env --display-name "AgaeSMO_env"
 
 python setup.py install
+
+## Tutorials
+see Tutorials_ST_HE.ipynb && Tutorials_ST_SM.ipynb
