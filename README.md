@@ -1,7 +1,6 @@
 # AgaeSMO
 
-
-<img width="4226" height="3628" alt="architecture" src="https://github.com/user-attachments/assets/85304b07-cb0b-4ea8-af85-3a5216e48ec0" />
+<img width="4227" height="3628" alt="architecture" src="https://github.com/user-attachments/assets/c6ef4602-865c-4b85-9d3d-d0a338a7e744" />
 
 H5ad file of result deposited in [https://drive.google.com/drive/folders/1UgXCfGyDs4GJzuc5kBD-KruUdnWwbO7U?usp=sharing](https://drive.google.com/drive/folders/1UgXCfGyDs4GJzuc5kBD-KruUdnWwbO7U?usp=sharing)
 
