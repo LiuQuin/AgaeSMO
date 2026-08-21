@@ -4,7 +4,7 @@
 
 H5ad file of result deposited in [https://drive.google.com/drive/folders/1UgXCfGyDs4GJzuc5kBD-KruUdnWwbO7U?usp=sharing](https://drive.google.com/drive/folders/1UgXCfGyDs4GJzuc5kBD-KruUdnWwbO7U?usp=sharing)
 
-data of demo deposited in https://drive.google.com/drive/folders/1eK5zSKmSV2eaQ9jhIEcKPXwuiWaGfldH?usp=sharing
+Input H5ad were deposited in https://drive.google.com/drive/folders/1eK5zSKmSV2eaQ9jhIEcKPXwuiWaGfldH?usp=sharing
 
 ## installation
 
