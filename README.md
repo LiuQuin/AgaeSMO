@@ -36,3 +36,12 @@ see Tutorials_ST_HE.ipynb && Tutorials_ST_SM.ipynb
 
 ## Citation
 AgaeSMO has now been published in **_Advanced Science_** (https://doi.org/10.1002/advs.78141).
+BibTex:
+@article{liu2026flexible,
+  title={Flexible Integration of Structurally Diverse Spatial Multi-Omics With AgaeSMO},
+  author={Liu, Kunpeng and Su, Jinpo and Zhou, Haotian and Shen, Yilin and Qin, Mengke and Luo, Yingjie and Wang, Tiancai and Chen, Zhenglin and Wang, Yuanyuan and Ma, Xiaokai},
+  journal={Advanced Science},
+  pages={e78141},
+  year={2026},
+  publisher={Wiley Online Library}
+}
