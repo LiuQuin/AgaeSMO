@@ -36,6 +36,7 @@ see Tutorials_ST_HE.ipynb && Tutorials_ST_SM.ipynb
 
 ## Citation
 AgaeSMO has now been published in **_Advanced Science_** (https://doi.org/10.1002/advs.78141).
+
 BibTex:
 
 @article{liu2026flexible,
